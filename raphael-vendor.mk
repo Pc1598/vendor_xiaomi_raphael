@@ -1131,6 +1131,7 @@ PRODUCT_PACKAGES += \
     com.qualcomm.qti.gpudrivers.msmnile.api30 \
     HotwordEnrollmentOKGoogleHEXAGON \
     HotwordEnrollmentXGoogleHEXAGON \
+    camerax-vendor-extensions \
     com.android.hotwordenrollment.common.util \
     android.hardware.gnss@2.1-service-qti \
     android.hardware.neuralnetworks@1.3-service-qti-hta \
